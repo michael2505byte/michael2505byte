@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Neel%20Shah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neel-shah)
 [![Gmail](https://img.shields.io/badge/Gmail-neelshah644@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neelshah644@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-6C63FF?style=for-the-badge)](https://neel-portfolio-8jj9lzurx-neel-s-projects-28628c32.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-6C63FF?style=for-the-badge)](https://neel-portfolio-nu.vercel.app/)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+%40+KJ+Somaiya;AI+%7C+ML+%7C+Cybersecurity+%7C+Flutter;Building+solutions+that+matter+%F0%9F%92%A1;Open+to+internships+%26+collaborations!" alt="Typing SVG" />
 
