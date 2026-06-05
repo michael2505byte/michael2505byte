@@ -5,7 +5,7 @@
 ### 🚀 Computer Engineering Student | AI/ML Enthusiast | Cybersecurity Explorer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Neel%20Shah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neel-shah)
-[![Gmail](https://img.shields.io/badge/Gmail-neelshah644@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neelshah644@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-neels2505@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neels2505@gmail.com)
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-6C63FF?style=for-the-badge)](https://neel-portfolio-nu.vercel.app/)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+%40+KJ+Somaiya;AI+%7C+ML+%7C+Cybersecurity+%7C+Flutter;Building+solutions+that+matter+%F0%9F%92%A1;Open+to+internships+%26+collaborations!" alt="Typing SVG" />
@@ -185,7 +185,7 @@ I'm currently in my **3rd year of B.Tech in Computer Engineering** at K. J. Soma
 ### 💬 Let's Connect & Build Something Amazing!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/neel-shah)
-[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neelshah644@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neels2505@gmail.com)
 
 ---
 
